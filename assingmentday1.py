@@ -1,11 +1,11 @@
-#multiplication table
-"""
+#multiplication
+'''
 n=int(input('Enter a number: '))
 print('Multiplication table')
-for i in range(1,10):
+for i in range(1,11):
     print(n,'*',i,'=',i*n)
-    
-"""    
+ '''   
+  
 
 #Counting vowels and consonants
 '''
