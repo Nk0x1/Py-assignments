@@ -1,5 +1,3 @@
-
-
 #1-mail verification
 """
 import re
