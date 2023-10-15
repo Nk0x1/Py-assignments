@@ -1,5 +1,4 @@
 #to do list
-#Calculator
 import tkinter
 from tkinter import *
 
