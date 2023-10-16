@@ -1,0 +1,12 @@
+*{
+    background-color: rgb(186, 228, 214);
+}
+.food{
+    display: flex;
+    margin: 5px;
+    margin-top: 25px;
+}
+
+h5{
+    color: #808080;
+}
